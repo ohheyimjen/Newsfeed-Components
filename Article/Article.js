@@ -65,10 +65,10 @@ articles.forEach(function(article) {
 //     this.panelBtnClose = this.panel.querySelector('.panel-btn-close');
 //     this.panelContent = this.panel.querySelector('.panel-content');
 
-    step 4 add event listener
-    this.panelButtons.addEventListener('click', this.togglePanel.bind(this));
-    this.panelButtons.addEventListener('click', () => this.togglePanel());
-//   }
+//     step 4 add event listener
+//     this.panelButtons.addEventListener('click', this.togglePanel.bind(this));
+//     this.panelButtons.addEventListener('click', () => this.togglePanel());
+// //   }
 //   togglePanel() {
 //     this.panelBtnOpen.classList.toggle('hide-btn');
 //     this.panelBtnClose.classList.toggle('hide-btn');
