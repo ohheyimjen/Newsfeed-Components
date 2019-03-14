@@ -12,3 +12,4 @@ const menuButton = document.querySelector('.menu-button');
 // this.menuButton.addEventListener('click', () => this.toggleMenu());
 
 menuButton.addEventListener('click', toggleMenu);
+
